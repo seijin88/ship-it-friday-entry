@@ -1,4 +1,4 @@
-// Ship It Friday entry: writes the one commit line to /output/entry.txt
+// Ship It Friday entry: writes the commit line to /output/entry.txt
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
